@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
    name='connect-mydb', 
-    version='0.1.0', 
+    version='0.1.1', 
     packages=find_packages(), 
     author='Mohamed Khasim', 
     description='A lightweight Python package that helps you connect to a MySQL database with a single line of code', 
