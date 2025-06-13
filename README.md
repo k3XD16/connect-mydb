@@ -1,4 +1,4 @@
-# connnect_db 🔌
+# connnect_mydb 🔌
 
 A lightweight Python package that helps you connect to a MySQL database with a **single line of code**.
 
@@ -25,7 +25,7 @@ pip install mysql-connector-python
 Then install this package:
 
 ```bash
-pip install connect-db
+pip install connect-mydb
 ```
 
 ## 💻 Usage
