@@ -2,6 +2,10 @@
 
 A lightweight Python package that helps you connect to a MySQL database with a **single line of code**.
 
+[![PyPI version](https://img.shields.io/pypi/v/connect-mydb.svg)](https://pypi.org/project/connect-mydb/)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/connect-mydb)](https://pypi.org/project/connect-mydb/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 No more boilerplate code — just call `connect()` and you're good to go!
 
 ---
