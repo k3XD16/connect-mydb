@@ -1,4 +1,4 @@
-# connnect_mydb 🔌
+# connnect-mydb 🔌
 
 A lightweight Python package that helps you connect to a MySQL database with a **single line of code**.
 
